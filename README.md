@@ -4,7 +4,7 @@ Here’s a new **README.md** file for the **Flight-Fare-Prediction-Web-App** wit
 
 # **Flight Fare Prediction Web App**  
 
-🚀 Live Demo: [Flight Fare Prediction](https://mlflightfare-prediction.herokuapp.com/)  
+🚀 Live Demo: [Flight Fare Prediction](https://flight-fare-prediction-web-app-041a274343e8.herokuapp.com/)  
 
 ---
 
@@ -96,7 +96,7 @@ python app.py
 ```
 
 6. **Access the App**:  
-Open the browser and navigate to: [http://127.0.0.1:5000](http://127.0.0.1:5000)  
+Open the browser and navigate to: [http://127.0.0.1:5000]([http://127.0.0.1:5000](https://flight-fare-prediction-web-app-041a274343e8.herokuapp.com/))  
 
 ---
 
@@ -148,7 +148,7 @@ After entering the details, the predicted flight fare is displayed:
 ---
 
 ## **Live Demo**  
-Check out the deployed web app here: [Flight Fare Prediction](https://mlflightfare-prediction.herokuapp.com/)  
+Check out the deployed web app here: [Flight Fare Prediction]([https://mlflightfare-prediction.herokuapp.com/](https://flight-fare-prediction-web-app-041a274343e8.herokuapp.com/))  
 
 ---
 
