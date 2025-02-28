@@ -96,7 +96,7 @@ python app.py
 ```
 
 6. **Access the App**:  
-Open the browser and navigate to: [http://127.0.0.1:5000]([http://127.0.0.1:5000](https://flight-fare-prediction-web-app-041a274343e8.herokuapp.com/))  
+Open the browser and navigate to: (https://flight-fare-prediction-web-app-041a274343e8.herokuapp.com/)
 
 ---
 
