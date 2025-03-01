@@ -139,11 +139,11 @@ heroku logs --tail
 
 ### **Homepage View**  
 This is the homepage where users can enter flight details:  
-![Homepage](static/images/templete 1/homepage.png)  
+![Homepage](https://github.com/InjetiYedeedya/Flight-Fare-Prediction-Web-App/blob/9252f7ec7cf613af20eabb296bf2b09500d3d495/images/templete%201.png)  
 
 ### **Prediction Result View**  
 After entering the details, the predicted flight fare is displayed:  
-![Prediction Result](static/images/templete 2/prediction.png)  
+![Prediction Result](https://github.com/InjetiYedeedya/Flight-Fare-Prediction-Web-App/blob/9252f7ec7cf613af20eabb296bf2b09500d3d495/images/templete%202.png)  
 
 ---
 
